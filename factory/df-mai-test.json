@@ -1,0 +1,9 @@
+{
+	"name": "df-mai-test",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c5c3f86-f1a6-4339-80b1-285c14ba4f1e",
+		"tenantId": "2c96e298-2875-4125-9a99-3bc1d9da55dd"
+	}
+}
